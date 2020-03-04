@@ -1,2 +1,2 @@
 hola git
-mi segundo cambio
+mi segundo cambio con nuevas funcionalidades
